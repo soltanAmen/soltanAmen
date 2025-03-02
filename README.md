@@ -1,9 +1,6 @@
 # Soltani Amen
 
 ## 👨‍💻 Developer Profile
-
-![My Picture](https://media.licdn.com/dms/image/v2/D5603AQGmE_xLx9AqgA/profile-displayphoto-shrink_400_400/B56ZTMkI01GoAs-/0/1738598815274?e=1746662400&v=beta&t=t2SGFMRe_ujDzhJdsk2NZT6O8LNcxJRoSz7rM8GB9Zs)
-<!-- CSS for circular image -->
 <img src="https://media.licdn.com/dms/image/v2/D5603AQGmE_xLx9AqgA/profile-displayphoto-shrink_400_400/B56ZTMkI01GoAs-/0/1738598815274?e=1746662400&v=beta&t=t2SGFMRe_ujDzhJdsk2NZT6O8LNcxJRoSz7rM8GB9Zs" alt="My Picture" width="150" height="150" style="border-radius: 50%;" />
 
 Passionate about web development, constantly learning and refining my skills in modern technologies. I specialize in Angular, React, Node.js, Tailwind, and the MEAN stack, and I'm committed to delivering clean, scalable, and efficient code.
@@ -18,7 +15,6 @@ Passionate about web development, constantly learning and refining my skills in 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌱 Learning & Current Projects
