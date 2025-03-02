@@ -3,6 +3,8 @@
 ## 👨‍💻 Developer Profile
 
 ![My Picture](https://media.licdn.com/dms/image/v2/D5603AQGmE_xLx9AqgA/profile-displayphoto-shrink_400_400/B56ZTMkI01GoAs-/0/1738598815274?e=1746662400&v=beta&t=t2SGFMRe_ujDzhJdsk2NZT6O8LNcxJRoSz7rM8GB9Zs)
+<!-- CSS for circular image -->
+<img src="https://media.licdn.com/dms/image/v2/D5603AQGmE_xLx9AqgA/profile-displayphoto-shrink_400_400/B56ZTMkI01GoAs-/0/1738598815274?e=1746662400&v=beta&t=t2SGFMRe_ujDzhJdsk2NZT6O8LNcxJRoSz7rM8GB9Zs" alt="My Picture" width="150" height="150" style="border-radius: 50%;" />
 
 Passionate about web development, constantly learning and refining my skills in modern technologies. I specialize in Angular, React, Node.js, Tailwind, and the MEAN stack, and I'm committed to delivering clean, scalable, and efficient code.
 
@@ -43,3 +45,4 @@ Passionate about web development, constantly learning and refining my skills in 
 📧 Email: [soltaniamen964@gmail.com](mailto:soltaniamen964@gmail.com)
 
 Feel free to explore my projects and reach out for collaboration opportunities! 🚀
+
