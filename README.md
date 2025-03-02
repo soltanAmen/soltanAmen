@@ -38,6 +38,6 @@ Passionate about web development, constantly learning and refining my skills in 
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soltani-amen/)  
-📧 Email: [soltaniamen964@gmail.com](mailto:soltaniamen964@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soltaniamen964@gmail.com)
 
 Feel free to explore my projects and reach out for collaboration opportunities! 🚀
