@@ -27,7 +27,7 @@ Passionné par le développement web et les technologies modernes, je suis actue
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soltani-amen/)  
-📧 Email : [amen.soltani@example.com](mailto:amen.soltani@example.com)  
+📧 Email : [soltaniamen964@gmail.com ](mailto:soltaniamen964@gmail.com)  
 
 N'hésitez pas à explorer mes projets et à me contacter pour échanger sur des opportunités de collaboration ! 🚀
 
