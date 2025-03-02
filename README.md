@@ -1,10 +1,10 @@
 # Soltani Amen
 
-## 👋 Bienvenue sur mon profil GitHub
+## 👋 Welcome to My GitHub Profile
 
-Passionné par le développement web et les technologies modernes, je suis actuellement en train d'explorer et de perfectionner mes compétences en Angular, Node.js et le stack MEAN.
+Passionate about web development and modern technologies, I am currently exploring and refining my skills in Angular, Node.js, and the MEAN stack.
 
-## 🚀 Technologies & Outils
+## 🚀 Technologies & Tools
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -12,22 +12,22 @@ Passionné par le développement web et les technologies modernes, je suis actue
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🌱 Apprentissage & Projets en cours
+## 🌱 Learning & Current Projects
 
-- 📌 Développement d'un site web de salle de sport avec Angular et Node.js (Stack MEAN)
-- 📌 Expérimentation des bonnes pratiques en qualité et contrôle interne
-- 📌 Formation continue sur l'amélioration des processus techniques
+- 📌 Developing a gym website using Angular and Node.js (MEAN Stack)
+- 📌 Exploring best practices in quality and internal control
+- 📌 Continuously improving technical processes and methodologies
 
-## 🏆 Expérience et Contributions
+## 🏆 Experience & Contributions
 
-- Membre actif d'ORENDA Junior Entreprise en tant que **Chargé de Mission Qualité**
-- Développement et mise en place de stratégies d'amélioration continue
-- Participation à la gestion technique et au renforcement des processus internes
+- Active member of **ORENDA Junior Enterprise** as a **Quality Mission Officer**
+- Implementing strategies for continuous improvement and technical optimization
+- Contributing to internal process management and strengthening team capabilities
 
-## 📫 Me contacter
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soltani-amen/)  
-📧 Email : [soltaniamen964@gmail.com ](mailto:soltaniamen964@gmail.com)  
+📧 Email: [soltaniamen964@gmail.com ](mailto:soltaniamen964@gmail.com)  
 
-N'hésitez pas à explorer mes projets et à me contacter pour échanger sur des opportunités de collaboration ! 🚀
+Feel free to explore my projects and reach out for collaboration opportunities! 🚀
 
